@@ -13,7 +13,7 @@ use-site-title: true
 <!-- </div> -->
 
 <div class="posts-list">
-  {% for post in site.tags.weekly %}
+  {% for post in site.tags.weekly reversed%}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
 	    <h2 class="post-title">{{ post.title }}</h2>
