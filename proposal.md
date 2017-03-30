@@ -8,11 +8,15 @@ subtitle: Embedded Capstone, Spring 2017
 Most people spend time in front of a mirror each day. What if your mirror could provide you with useful information such as the weather, news report, or a to-do list?
 
 ### Examples
-#### Mirror OS
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/8swdfbnZn9E" frameborder="0" allowfullscreen></iframe></center>
+TODO
+<!-- #### Mirror OS -->
+<!-- <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8swdfbnZn9E" frameborder="0" allowfullscreen></iframe></center> -->
 
 ### Related Technology
+TODO
 
 ### Potential Solutions
+TODO
 
 ### Resource budget
+TODO
