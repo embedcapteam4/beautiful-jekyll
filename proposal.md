@@ -5,13 +5,10 @@ subtitle: Embedded Capstone, Spring 2017
 ---
 
 ### Problem Space
-Most people spend time in front of a mirror each day. What if your mirror could provide you with useful information such as the weather, news report, or a to-do list?
+Most people spend time in front of a mirror each day. It is a convenient time and place to absorb information and plan your day. Most of this information is obtained from your phone. However, your hands will be most likey be occupied if you're standing in front of a mirror getting ready.
 
 ### Examples
-TODO
-<!-- #### Mirror OS -->
-<!-- <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8swdfbnZn9E" frameborder="0" allowfullscreen></iframe></center> -->
-
+Imagine you're getting ready for the day, but
 ### Related Technology
 TODO
 
