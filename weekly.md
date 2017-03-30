@@ -6,11 +6,11 @@ css: "/css/index.css"
 use-site-title: true
 ---
 
-<div class="list-filters">
-  <a href="/" class="list-filter">All posts</a>
-  <span class="list-filter filter-selected">Weekly Journal</span>
-  <!-- <a href="/tutorials" class="list-filter">Tutorials</a> -->
-</div>
+<!-- <div class="list-filters"> -->
+<!--   <a href="/" class="list-filter">All posts</a> -->
+<!--   <span class="list-filter filter-selected">Weekly Journal</span> -->
+<!--   <a href="/tutorials" class="list-filter">Tutorials</a> -->
+<!-- </div> -->
 
 <div class="posts-list">
   {% for post in site.tags.weekly %}
