@@ -24,6 +24,7 @@ description: Currently brainstorming ideas.
 # List of links in the navigation bar
 navbar-links:
   # About Me: "aboutme"
+  Blog: ""
   Project Proposal: "proposal"
   Project Requirements: "requirements"
   # Resources:
