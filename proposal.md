@@ -15,13 +15,13 @@ subtitle: Embedded Capstone, Spring 2017
   </p>
 </div>
 
-### Problem Space
-Most people spend time in front of a mirror each day. What if your mirror could provide you with useful information such as the weather, news report, or a to-do list?
+<!-- ### Problem Space -->
+<!-- Most people spend time in front of a mirror each day. What if your mirror could provide you with useful information such as the weather, news report, or a to-do list? -->
 
-### Examples
+<!-- ### Examples -->
 
-### Related Technology
+<!-- ### Related Technology -->
 
-### Potential Solutions
+<!-- ### Potential Solutions -->
 
-### Resource budget
+<!-- ### Resource budget -->
