@@ -9,9 +9,7 @@ Most people spend time in front of a mirror each day. What if your mirror could 
 
 ### Examples
 #### MirrorOS:
-<div class="post">
-    <center><iframe width="560" height="315" src="https://www.youtube.com/watch?v=8swdfbnZn9E" frameborder="0" allowfullscreen></iframe></center>
-</div>
+<center><iframe width="560" height="315" src="https://www.youtube.com/watch?v=8swdfbnZn9E" frameborder="0" allowfullscreen></iframe></center>
 
 ### Related Technology
 
