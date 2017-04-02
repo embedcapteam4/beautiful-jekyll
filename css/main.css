@@ -2,15 +2,9 @@
 
 /* --- General --- */
 
-figure .image {
-    width: 100%;
-}
-
-figure {
+figure figcaption {
+    border: 1px dotted blue;
     text-align: center;
-    display: table;
-    max-width: 100%; /* demo; set some amount (px or %) if you can */
-    margin: 10px auto; /* not needed unless you want centered */
 }
 
 figure img {
