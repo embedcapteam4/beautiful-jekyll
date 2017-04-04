@@ -8,10 +8,15 @@ subtitle: Embedded Capstone, Spring 2017
 Most people spend time in front of a mirror each day. It is a convenient time and place to absorb information and plan your day. Most of this information is obtained from your phone. However, your hands will be most likey be occupied if you're standing in front of a mirror getting ready. Having to constantly pause your routine to look down at your phone for the news, weather, and intinerary slow you down.   
 
 ### Examples
-Scenario 1: Imagine you're getting ready to head to go to the airport 
-Scenario 2: Imagine you're getting ready for an interview and need to tie your tie. You pull out your phone and look up a tutorial on Youtube. You constantly exchange looks between your mirror and phone as you attempt to prepare your tie for your important interview. 
+##Scenario 1
+Imagine you're getting ready and waxing your hair. You have a list full of errands to run for the day, and try to go to the notes in your phone. However, with both your hands coverd in wax, you have no choice but to wait until after you're done to begin reviewing the long list of tasks you have set out for the day. 
+
+##Scenario 2
+Imagine you're getting ready for an interview and need to tie your tie. You pull out your phone and look up a tutorial on Youtube. You constantly exchange looks between your mirror and phone as you attempt to prepare your tie for your important interview. As you struggle to get ready, the clock continues to tick. 
+
 ### Related Technology
-TODO
+![picture alt](http://uncrate.com/p/2016/02/smart-mirror-1.jpg "Example Smart Mirror")
+There are several existing Smart Mirrors already. However, their functionality does not include features that we hope to implement in our design such as facial recognition that will match with an existing profile set up beforehand. 
 
 ### Potential Solutions
 Develop a Smart Mirror with features that eliminate these inconveniences. Instead of having to juggle between handling your mobile device and getting ready, the information is available right on your mirror. Features will include:
