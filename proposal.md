@@ -13,7 +13,7 @@ Most people spend time in front of a mirror each day. It is a convenient time an
 * Scenario 2: You have an interview coming up and need to tie your tie. You pull out your phone and look up a tutorial on Youtube. You constantly exchange looks between your mirror and phone as you attempt to prepare your tie for your important interview. As you struggle to get ready, the clock continues to tick. 
 
 ### Related Technology
-![picture alt](http://uncrate.com/p/2016/02/smart-mirror-1.jpg "Example Smart Mirror")
+![picture alt](http://www.geeky-gadgets.com/wp-content/uploads/2015/05/Smart-Mirror.jpg "Example Smart Mirror")
 There are several existing Smart Mirrors already. However, their functionality does not include features that we hope to implement in our design such as facial recognition that will match with an existing profile set up beforehand.
 
 ### Potential Solutions
