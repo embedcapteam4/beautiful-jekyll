@@ -5,7 +5,7 @@ subtitle: Embedded Capstone, Spring 2017
 ---
 
 ### Problem Space
-Most people spend time in front of a mirror each day. It is a convenient time and place to absorb information and plan your day. Most of this information is obtained from your phone. However, your hands will be most likey be occupied if you're standing in front of a mirror getting ready. Having to constantly pause your routine to look down at your phone for the news, weather, and intinerary slow you down.   
+Most people spend time in front of a mirror each day. It is a convenient time and place to absorb information and plan your day. Most of this information is obtained from your phone. However, your hands will be most likey be occupied if you're standing in front of a mirror getting ready. Having to constantly pause your routine to look down at your phone for the news, weather, and intinerary can slow you down.   
 
 ### Examples
 * Scenario 1: You're getting ready and waxing your hair. You have a list full of errands to run for the day, and try to go to the notes in your phone. However, with both your hands coverd in wax, you have no choice but to wait until after you're done to begin reviewing the long list of tasks you have set out for the day. 
@@ -30,9 +30,11 @@ Develop a Smart Mirror with features that eliminate these inconveniences. Instea
   * Bus Schedule (OneBusAway API)
   * Maybe pull up TV channels (news, shows, etc)
 
-### Resource budget
-* Hover motion gesture: $30 
-* 2 Way Mirror Film: %30 
-* Frame: $20
-* Camera: $25
+### Resource Budget
+* Hover motion gesture: $29 + $5 shipping
+* Acrylic Screen: ~$15
+* 2 Way Mirror Film: $26.76
+* Frame: ~$20
+* Camera: $22.44
+* Approximate Total: $118.20
 
