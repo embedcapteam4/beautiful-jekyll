@@ -14,12 +14,13 @@ Scenario 2: Imagine you're getting ready for an interview and need to tie your t
 TODO
 
 ### Potential Solutions
-Develop a Smart Mirror with features that eliminate these inconveniences. Features will include:
+Develop a Smart Mirror with features that eliminate these inconveniences. Instead of having to juggle between handling your mobile device and getting ready, the information is available right on your mirror. Features will include:
 * Motion Gesture controlled 
 * Facial Recognition
 * Proximity Sensor that controls On/Off state
 * Camera that detects face, takes picture, and compares to previously saved photo
 * Sync notes/reminders from phone or have profile match bring up notes/reminders
+* Dual display between phone and mirror 
 * Display basic information:
   * Time and Date
   * Weather
