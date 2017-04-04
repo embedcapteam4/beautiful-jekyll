@@ -16,7 +16,7 @@ Imagine you're getting ready for an interview and need to tie your tie. You pull
 
 ### Related Technology
 ![picture alt](http://uncrate.com/p/2016/02/smart-mirror-1.jpg "Example Smart Mirror")
-There are several existing Smart Mirrors already. However, their functionality does not include features that we hope to implement in our design such as facial recognition that will match with an existing profile set up beforehand. 
+There are several existing Smart Mirrors already. However, their functionality does not include features that we hope to implement in our design such as facial recognition that will match with an existing profile set up beforehand.
 
 ### Potential Solutions
 Develop a Smart Mirror with features that eliminate these inconveniences. Instead of having to juggle between handling your mobile device and getting ready, the information is available right on your mirror. Features will include:
