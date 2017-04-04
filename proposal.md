@@ -14,6 +14,7 @@ Most people spend time in front of a mirror each day. It is a convenient time an
 
 ### Related Technology
 ![picture alt](http://www.geeky-gadgets.com/wp-content/uploads/2015/05/Smart-Mirror.jpg "Example Smart Mirror")
+
 There are several existing Smart Mirrors already. However, their functionality does not include features that we hope to implement in our design such as facial recognition that will match with an existing profile set up beforehand.
 
 ### Potential Solutions
