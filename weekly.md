@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team 4
-subtitle: Embedded Capstone Project
+title: Smart Mirror
+subtitle: Team 4
 css: "/css/index.css"
 use-site-title: true
 ---
