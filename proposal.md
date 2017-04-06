@@ -24,7 +24,7 @@ Develop a Smart Mirror with features that eliminate these inconveniences. Instea
   * Camera that detects face, takes picture, and compares to previously saved photo
   * Matches customized profile based on facial recognition
 * Motion gesture controlled through camera/proximity sensor
-* Dual display between phone and mirror 
+* Dual display mode between phone and mirror 
 * Display basic information:
   * Time and Date
   * Weather
