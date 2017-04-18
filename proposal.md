@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Proposal
-subtitle: Embedded Capstone, Spring 2017
+subtitle: Team 4
 ---
 
 ### Problem Space
