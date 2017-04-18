@@ -52,25 +52,26 @@ For this project, we will be creating a MagicMirror that will show a user’s re
 
 ### Team Member Responsibilities
 * Brad:
-	* Contribute to facial recognition setup
-	* Implement sequence for loading a previously created profile
-	* Implement sequence for creation of a profile for a new user
-	* Motion-based proximity sensing for ON/OFF protocol
 * Brandon:
-    * Work on tool for customizing each user's profile 
+  * Work on tool for customizing each user's profile 
     * Hide and show specific modules on the Magic Mirror 
     * Adjusting the location of each module on the Magic Mirror 
-    * Establish a way to store each user's profile 
+  * Establish a way to store each user's profile 
     * Pull corresponding profile based on facial recognition 
-    * Incorporate useful modules into the Magic Mirror   
+  * Incorporate useful modules into the Magic Mirror   
 * Kurtis:
+  * Contribute to facial recognition
+    * Testing and troubleshooting user based facial recognition
+  * Gesture Control
+    * Research and develop a method for gesture control
+    * Aid in implementation of gesture control
 * Ryan:
-    * Contribute to facial recognition setup
+  * Contribute to facial recognition setup
     * Set up customization backend for integrating facial recognition with displayed elements
     * Testing and development of facial recognition per user basis
-    * Develop a PCB
+  * Develop a PCB
     * Layout schematic and PCB in Altium (board will not actually be used on project)
-    * Gesture sensor
+  * Gesture sensor
     * Software development for integrating gestures into the Smart Mirror environment
 
 ### Outside Help Needed
