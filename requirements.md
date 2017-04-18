@@ -61,6 +61,13 @@ For this project, we will be creating a MagicMirror that will show a user’s re
     * Incorporate useful modules into the Magic Mirror   
 * Kurtis:
 * Ryan:
+    * Contribute to facial recognition setup
+        * Set up customization backend for integrating facial recognition with displayed elements
+        * Testing and development of facial recognition per user basis
+    * Develop a PCB
+        * Layout schematic and PCB in Altium (board will not actually be used on project)
+    * Gesture sensor
+        * Software development for integrating gestures into the Smart Mirror environment
 
 ### Outside Help Needed
 * Josh Fromm for Computer Vision help
