@@ -55,7 +55,7 @@ For this project, we will be creating a MagicMirror that will show a user’s re
 	* Contribute to facial recognition system
 	* Configure the loading protocol of existing profiles
 	* Create the sequence for the creation of a profile for a new user
-	* Proximity-sensor like system using the camera to control the ON/OFF state
+	* PIR-like system using the camera to control the ON/OFF state
 * Brandon:
 	* Work on tool for customizing each user's profile 
     * Hide and show specific modules on the Magic Mirror 
