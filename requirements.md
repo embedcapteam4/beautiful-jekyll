@@ -21,7 +21,7 @@ For this project, we will be creating a MagicMirror that will show a user’s re
 * Facial Recognition training to create a user profile
 * Loading of MagicMirror profile
 * Camera that detects face, takes picture, and compares to a previously saved photo
-* Sync notes/reminders from phone/profile to display on mirror
+* Write notes/reminders from phone to display on mirror
 * Proximity Sensor to control On/Off state using the camera
 * Display basic information:
   * Time
