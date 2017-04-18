@@ -53,6 +53,12 @@ For this project, we will be creating a MagicMirror that will show a user’s re
 ### Team Member Responsibilities
 * Brad:
 * Brandon:
+    * Work on tool for customizing each user's profile 
+        * Hide and show specific modules on the Magic Mirror 
+        * Adjusting the location of each module on the Magic Mirror 
+    * Establish a way to store each user's profile 
+        * Pull corresponding profile based on facial recognition 
+    * Incorporate useful modules into the Magic Mirror   
 * Kurtis:
 * Ryan:
 
