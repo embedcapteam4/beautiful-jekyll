@@ -9,7 +9,11 @@ The Smart Mirror is coming along nicely and we already have a working prototype 
 Here is what the current prototype looks like:
 
 This is the current prototype we are working with:  
-PICTURE OF TV AND CAMERA
+
+<figure>
+	<img style="width: 50%; height: 50%" src="{{ '/img/Rapid_Proto_TV_Camera.jpg.jpg' | prepend: site.baseurl }}" alt=""> 
+	<!-- <figcaption>Hover Gesture Controller</figcaption> -->
+</figure>
 
 User being recognized and logged in:  
 SCREENSHOT OF USER BEING RECOGNIZED AND LOGGED IN
