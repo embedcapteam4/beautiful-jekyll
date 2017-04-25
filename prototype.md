@@ -11,9 +11,11 @@ Here is what the current prototype looks like:
 This is the current prototype we are working with:  
 
 <figure>
-	<img style="width: 50%; height: 50%" src="{{ '/img/Rapid_Proto_TV_Camera.jpg.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img style="width: 50%; height: 50%" src="{{ '/img/Rapid_Proto_TV_Camera.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>Hover Gesture Controller</figcaption> -->
 </figure>
+
+The TV Monitor will be covered with 2-way film and have a frame mounted on top to more resemble a mirror. The ELP Mini HD USB Camera is temporarily mounted on top, but will eventually be hidden behind the frame with an opening for the lens. The Raspberry Pi is currently resting on the counter for easy access while prototyping, but will also be mounted behind the frame. 
 
 User being recognized and logged in:  
 SCREENSHOT OF USER BEING RECOGNIZED AND LOGGED IN
