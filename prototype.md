@@ -17,7 +17,7 @@ SCREENSHOT OF USER BEING RECOGNIZED AND LOGGED IN
 Web application used for mirror customization:  
 
 <figure>
-	<img style="width: 50%; height: 50%" src="{{ '/img/Magic_Mirror_WebApp_Login_Form.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img style="width: 50%; height: 30%" src="{{ '/img/Magic_Mirror_WebApp_Login_Form.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>Hover Gesture Controller</figcaption> -->
 </figure>
 
