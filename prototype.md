@@ -8,8 +8,6 @@ The Smart Mirror is coming along nicely and we already have a working prototype 
 
 Here is what the current prototype looks like:
 
-This is the current prototype we are working with:  
-
 <figure>
 	<img style="width: 50%; height: 50%" src="{{ '/img/Rapid_Proto_TV_Camera.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>Hover Gesture Controller</figcaption> -->
@@ -18,7 +16,16 @@ This is the current prototype we are working with:
 The TV Monitor will be covered with 2-way film and have a frame mounted on top to more resemble a mirror. The ELP Mini HD USB Camera is temporarily mounted on top, but will eventually be hidden behind the frame with an opening for the lens. The Raspberry Pi is currently resting on the counter for easy access while prototyping, but will also be mounted behind the frame. 
 
 User being recognized and logged in:  
-SCREENSHOT OF USER BEING RECOGNIZED AND LOGGED IN
+
+<figure>
+	<img style="width: 50%; height: 50%" src="{{ '/img/Rapid_Proto_User_Camera.jpg' | prepend: site.baseurl }}" alt=""> 
+	<!-- <figcaption>Hover Gesture Controller</figcaption> -->
+</figure>
+
+<figure>
+	<img style="width: 50%; height: 50%" src="{{ '/img/Facial_Recognition_Greeting.jpg' | prepend: site.baseurl }}" alt=""> 
+	<!-- <figcaption>Hover Gesture Controller</figcaption> -->
+</figure>
 
 Web application used for mirror customization:  
 
