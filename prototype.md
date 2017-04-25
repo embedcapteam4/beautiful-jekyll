@@ -20,7 +20,8 @@ User being recognized and logged in:
 <figure>
 	<img style="width: 50%; height: 50%" src="{{ '/img/Rapid_Proto_User_Camera.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>User In Front of Mirror</figcaption> -->
-	
+</figure>
+<figure>
 	<img style="width: 50%; height: 50%" src="{{ '/img/Facial_Recognition_Greeting.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>Mirror Recognizing User</figcaption> -->
 </figure>
