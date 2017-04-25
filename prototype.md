@@ -20,9 +20,6 @@ User being recognized and logged in:
 <figure>
 	<img style="width: 50%; height: 50%" src="{{ '/img/Rapid_Proto_User_Camera.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>Hover Gesture Controller</figcaption> -->
-</figure>
-
-<figure>
 	<img style="width: 50%; height: 50%" src="{{ '/img/Facial_Recognition_Greeting.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>Hover Gesture Controller</figcaption> -->
 </figure>
