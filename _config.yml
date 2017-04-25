@@ -28,6 +28,7 @@ navbar-links:
   Weekly Journal: "weekly"
   Project Proposal: "proposal"
   Project Requirements: "requirements"
+  Rapid Prototype: "prototype"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
