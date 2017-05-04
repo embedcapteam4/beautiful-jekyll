@@ -6,7 +6,6 @@ use-site-title: true
 ---
 
 ---
-<br>
 
 <figure>
 	<img style="width: 100%; height: 100%" src="{{ '/img/ks_banner.png' | prepend: site.baseurl }}" alt=""> 
@@ -51,24 +50,24 @@ __With our MagicMirror you'll be ready to kickstart your busy day every morning!
 	<img style="width: 85%; height: 60%" src="{{ 'http://i.imgur.com/XAB6jsf.png' }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
-Facial Recognition: The photos above show our facial recognition algorithm correctly identifying the user in front of the camera (Brandon). For our magic mirror, users will be able to load customized profiles that will be matched to each user's face. Thus, every user will be able to tune their MagicMirror experience however they would like.
+__Facial Recognition:__ The photos above show our facial recognition algorithm correctly identifying the user in front of the camera (Brandon). For our magic mirror, users will be able to load customized profiles that will be matched to each user's face. Thus, every user will be able to tune their MagicMirror experience however they would like.
 
 <figure>
 	<img style="width: 70%; height: 100%" src="{{ '/img/hover.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
-Gesture Sensing: To take in user input, our mirror will implement a gesture sensor that a user can use to interact with the system. Example uses include customizing profiles and switching MagicMirror pages. 
+__Gesture Sensing:__ To take in user input, our mirror will implement a gesture sensor that a user can use to interact with the system. Example uses include customizing profiles and switching MagicMirror pages. 
 
 <figure>
 	<img style="width: 40%; height: 100%" src="{{ 'http://i.imgur.com/xqHw3Ta.png' }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
-Web App: In order to handle different user profiles, we will implement a web app that should be accessible on all phones. With this app, users will be able to create and customize their user profiles to their liking. 
+__Web App:__ In order to handle different user profiles, we will implement a web app that should be accessible on all phones. With this app, users will be able to create and customize their user profiles to their liking. 
 
 <figure>
 	<img style="width: 100%; height: 100%" src="{{ 'https://magicmirror.builders/img/explode.jpg' }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
-Mirror Housing: The monitor will be enclosed behind a two-way mirror so that a user will be able to view their reflection while viewing the information displayed on the MagicMirror. The housing will be made out of high-quality wood to ensure that the mirror is aesthetically pleasing. 
+__Mirror Housing:__ The monitor will be enclosed behind a two-way mirror so that a user will be able to view their reflection while viewing the information displayed on the MagicMirror. The housing will be made out of high-quality wood to ensure that the mirror is aesthetically pleasing. 
 
 
