@@ -6,23 +6,23 @@ use-site-title: true
 ---
 
 <figure>
-	<img style="width: 50%; height: 50%" src="{{ '/img/ks_banner.JPG' | prepend: site.baseurl }}" alt=""> 
+	<img style="width: 50%; height: 50%" src="{{ '/img/ks_banner.png' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
 
-###Video of a Similar Project 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VUxi9EeDWB4" frameborder="0" allowfullscreen></iframe> 
+### Video of a Similar Project 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNWIhNOthEY" frameborder="0" allowfullscreen></iframe> 
 
 ---
 ---
 
-###About this project
+### About this project
 __Our MagicMirror is a product that will revolutionize your morning routine.__
 Most people spend time in front of a mirror each day. It is a convenient time and place to absorb information and plan your day. Most of this information is obtained from your phone. However, your hands will be most likely be occupied if you’re standing in front of a mirror getting ready. Having to constantly pause your routine to look down at your phone for the news, weather, and intinerary can slow you down. 
 
 __With our MagicMirror you'll be ready to kickstart your busy day every morning!__
 
-###Features
+### Features
 <figure>
 	<img style="width: 50%; height: 50%" src="{{ 'http://i.imgur.com/XAB6jsf.png' }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
