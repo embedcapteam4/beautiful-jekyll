@@ -12,10 +12,11 @@ use-site-title: true
 	<img style="width: 100%; height: 100%" src="{{ '/img/ks_banner.png' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
+<br>
 
 #### Video of a Similar Project 
-<iframe width="840" height="472" src="https://www.youtube.com/embed/qNWIhNOthEY" frameborder="0" allowfullscreen></iframe> 
-
+<iframe width="100%" height="472" src="https://www.youtube.com/embed/qNWIhNOthEY" frameborder="0" allowfullscreen></iframe> 
+    
 <figure>
 	<img style="width: 50%; height: 50%" src="{{ '/img/ks_fund.png' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>User In Front of Mirror</figcaption> -->
