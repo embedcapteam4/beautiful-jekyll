@@ -5,16 +5,32 @@ subtitle: Team 4
 use-site-title: true
 ---
 
+---
+<br>
+
 <figure>
-	<img style="width: 100; height: 100" src="{{ '/img/ks_banner.png' | prepend: site.baseurl }}" alt=""> 
+	<img style="width: 100%; height: 100%" src="{{ '/img/ks_banner.png' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
 
 ### Video of a Similar Project 
-<iframe width="840" height="472" src="https://www.youtube.com/embed/qNWIhNOthEY" frameborder="0" allowfullscreen></iframe> 
+<iframe width="50%" height="50%" src="https://www.youtube.com/embed/qNWIhNOthEY" frameborder="0" allowfullscreen></iframe> 
+<figure>
+	<img style="width: 50%; height: 50%" src="{{ '/img/ks_fund.png' | prepend: site.baseurl }}" alt=""> 
+	<!-- <figcaption>User In Front of Mirror</figcaption> -->
+</figure>
+<!-- <figure> -->
+<!-- 	<img style="width: 50%; height: 50%" src="{{ '/img/Facial_Recognition_Greeting.jpg' | prepend: site.baseurl }}" alt="">  -->
+<!-- 	<\!-- <figcaption>Mirror Recognizing User</figcaption> -\-> -->
+<!-- </figure> -->
 
 ---
 ---
+
+<figure>
+	<img style="width: 100%; height: 100%" src="{{ '/img/ks_selections.png' | prepend: site.baseurl }}" alt=""> 
+	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
+</figure>
 
 ### About this project
 <figure>
