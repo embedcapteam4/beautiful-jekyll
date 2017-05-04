@@ -15,6 +15,7 @@ use-site-title: true
 
 #### Video of a Similar Project 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/qNWIhNOthEY" frameborder="0" allowfullscreen></iframe> 
+
 <figure>
 	<img style="width: 50%; height: 50%" src="{{ '/img/ks_fund.png' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>User In Front of Mirror</figcaption> -->
@@ -42,6 +43,8 @@ Most people spend time in front of a mirror each day. It is a convenient time an
 
 __With our MagicMirror you'll be ready to kickstart your busy day every morning!__
 
+---
+
 ### Features
 <figure>
 	<img style="width: 85%; height: 60%" src="{{ 'http://i.imgur.com/XAB6jsf.png' }}" alt=""> 
@@ -50,7 +53,7 @@ __With our MagicMirror you'll be ready to kickstart your busy day every morning!
 Facial Recognition: The photos above show our facial recognition algorithm correctly identifying the user in front of the camera (Brandon). For our magic mirror, users will be able to load customized profiles that will be matched to each user's face. Thus, every user will be able to tune their MagicMirror experience however they would like.
 
 <figure>
-	<img style="width: 70%; height: 100%" src="{{ '/img/hover.JPG' | prepend: site.baseurl }}" alt=""> 
+	<img style="width: 70%; height: 100%" src="{{ '/img/hover.jpg' | prepend: site.baseurl }}" alt=""> 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
 Gesture Sensing: To take in user input, our mirror will implement a gesture sensor that a user can use to interact with the system. Example uses include customizing profiles and switching MagicMirror pages. 
