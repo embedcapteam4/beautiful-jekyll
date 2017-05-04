@@ -63,6 +63,7 @@ __Gesture Sensing:__ To take in user input, our mirror will implement a gesture 
 	<!-- <figcaption>The new user registration/login page for the Magic Mirror.</figcaption> -->
 </figure>
 __Web App:__ In order to handle different user profiles, we will implement a web app that should be accessible on all phones. With this app, users will be able to create and customize their user profiles to their liking. 
+<br>
 
 <figure>
 	<img style="width: 100%; height: 100%" src="{{ 'https://magicmirror.builders/img/explode.jpg' }}" alt=""> 
